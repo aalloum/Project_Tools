@@ -259,27 +259,7 @@
 |253| [Is it mandatory to use injectable on every service class?](#is-it-mandatory-to-use-injectable-on-every-service-class)|
 |254| [What is an optional dependency?](#what-is-an-optional-dependency)|
 |255| [What are the types of injector hierarchies?](#what-are-the-types-of-injector-hierarchies)|
-|256| [](#)|
-|257| [](#)|
-|258| [](#)|
-|259| [](#)|
-|260| [](#)|
-|261| [](#)|
-|262| [](#)|
-|263| [](#)|
-|264| [](#)|
-|265| [](#)|
-|266| [](#)|
-|267| [](#)|
-|268| [](#)|
-|269| [](#)|
-|270| [](#)|
-|271| [](#)|
-|272| [](#)|
-|273| [](#)|
-|274| [](#)|
-|275| [](#)|
-|276| [](#)|
+
 
 1. ### What is Angular Framework?
 
