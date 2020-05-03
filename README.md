@@ -1,7 +1,5 @@
 # Angular Interview Questions & Answers
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
 ### Table of Contents
 
 | No. | Questions |
@@ -3896,65 +3894,5 @@
 
      1. ModuleInjector hierarchy: It configure on a module level using an @NgModule() or @Injectable() annotation.
      2. ElementInjector hierarchy: It created implicitly at each DOM element. Also it is empty by default unless you configure it in the providers property on @Directive() or @Component().
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-256. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-257. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-258. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-259. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-260. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-261. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-262. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-263. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-264. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-265. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-266. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-267. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-268. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-269. ### ?
-
-     **[⬆ Back to Top](#table-of-contents)**
-
-270. ### ?
 
      **[⬆ Back to Top](#table-of-contents)**
